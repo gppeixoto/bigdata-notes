@@ -11,6 +11,7 @@
 - Putting Apache Kafka To Use: A Practical Guide to Building a Streaming Platform (Part 1) [[link](https://www.confluent.io/blog/stream-data-platform-1/)]
 - The Log: What every software engineer should know about real-time data's unifying abstraction [[lkdn](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)]
 - Data Infrastructure at Airbnb [[medium](https://medium.com/airbnb-engineering/data-infrastructure-at-airbnb-8adfb34f169c#.qf6fnbkxq)]
+- Spinning Up a Free Hadoop Cluster: Step by Step [[medium](https://blog.insightdatascience.com/spinning-up-a-free-hadoop-cluster-step-by-step-c406d56bae42#.k30g6iamd)]
 
 ## Analytics and Data Science
 
