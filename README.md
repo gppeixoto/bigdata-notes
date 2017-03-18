@@ -36,3 +36,16 @@
 ## Papers (No specific topic)
 
 - Billion-scale similarity search with GPUs [[arxiv](https://arxiv.org/pdf/1702.08734.pdf)]
+
+## SRE-like
+
+- spark-ec2 [[github](https://github.com/amplab/spark-ec2)]
+- yarn-ec2 [[github](https://github.com/tqchen/yarn-ec2)]
+- kube-yarn [[github](https://github.com/Comcast/kube-yarn)]
+- apache-spark-on-k8s [[github](https://github.com/apache-spark-on-k8s/spark)]
+- Spark Cluster using Multi-Node Kubernetes and Docker [[link](https://datasterix.com/2016/09/03/spark-cluster-using-multi-node-kubernetes-and-docker/)]
+- Scalable
+
+## Scalable Machine Learning
+
+- Distributed XGBoost on YARN [[docs](https://xgboost.readthedocs.io/en/latest/tutorials/aws_yarn.html)]
