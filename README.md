@@ -12,6 +12,7 @@
 - The Log: What every software engineer should know about real-time data's unifying abstraction [[lkdn](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)]
 - Data Infrastructure at Airbnb [[medium](https://medium.com/airbnb-engineering/data-infrastructure-at-airbnb-8adfb34f169c#.qf6fnbkxq)]
 - Spinning Up a Free Hadoop Cluster: Step by Step [[medium](https://blog.insightdatascience.com/spinning-up-a-free-hadoop-cluster-step-by-step-c406d56bae42#.k30g6iamd)]
+- Personalization at Spotify using Cassandra [[link](https://labs.spotify.com/2015/01/09/personalization-at-spotify-using-cassandra/)]
 
 ## Analytics and Data Science
 
@@ -37,14 +38,14 @@
 
 - Billion-scale similarity search with GPUs [[arxiv](https://arxiv.org/pdf/1702.08734.pdf)]
 
-## SRE-like
+## SRE-like and Tooling
 
 - spark-ec2 [[github](https://github.com/amplab/spark-ec2)]
 - yarn-ec2 [[github](https://github.com/tqchen/yarn-ec2)]
 - kube-yarn [[github](https://github.com/Comcast/kube-yarn)]
 - apache-spark-on-k8s [[github](https://github.com/apache-spark-on-k8s/spark)]
 - Spark Cluster using Multi-Node Kubernetes and Docker [[link](https://datasterix.com/2016/09/03/spark-cluster-using-multi-node-kubernetes-and-docker/)]
-- Scalable
+- hdfs2cass - Hadoop mapreduce job to bulk load data into Cassandra [[github](https://github.com/spotify/hdfs2cass)]
 
 ## Scalable Machine Learning
 
