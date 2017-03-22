@@ -50,3 +50,12 @@
 ## Scalable Machine Learning
 
 - Distributed XGBoost on YARN [[docs](https://xgboost.readthedocs.io/en/latest/tutorials/aws_yarn.html)]
+
+## Kafka
+
+### Streams
+
+- [2017/03/22] Applying Kafka Streams for internal message delivery pipeline [[link](http://developers.linecorp.com/blog/?p=3960)]
+- [2017/03/22] Kafka Streams - Not Looking at Facebook [[link](https://timothyrenner.github.io/engineering/2016/08/11/kafka-streams-not-looking-at-facebook.html)]
+- [2017/03/22] Kafka Streams [[link](https://www.confluent.io/blog/introducing-kafka-streams-stream-processing-made-simple/)]
+- [2017/03/22] Processing Tweets with Kafka Streams [[link](https://www.madewithtea.com/processing-tweets-with-kafka-streams.html)] 
