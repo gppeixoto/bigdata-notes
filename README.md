@@ -13,6 +13,10 @@
 - Data Infrastructure at Airbnb [[medium](https://medium.com/airbnb-engineering/data-infrastructure-at-airbnb-8adfb34f169c#.qf6fnbkxq)]
 - Spinning Up a Free Hadoop Cluster: Step by Step [[medium](https://blog.insightdatascience.com/spinning-up-a-free-hadoop-cluster-step-by-step-c406d56bae42#.k30g6iamd)]
 - Personalization at Spotify using Cassandra [[link](https://labs.spotify.com/2015/01/09/personalization-at-spotify-using-cassandra/)]
+- IoT Analytics Platform [[link](https://blog.codecentric.de/en/2016/07/iot-analytics-platform/)]
+- Running Presto and Spark on the Netflix Big Data Platform [[slideshare](https://www.slideshare.net/AmazonWebServices/bdt303-running-spark-and-presto-on-the-netflix-big-data-platform)]
+- Running Presto in our Big Data Plaftform on AWS [[link](http://techblog.netflix.com/2014/10/using-presto-in-our-big-data-platform.html)]
+- [Netflix] Can Spark Streaming survive Chaos Monkey? [[link](http://techblog.netflix.com/2015/03/can-spark-streaming-survive-chaos-monkey.html)]
 
 ## Analytics and Data Science
 
