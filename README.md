@@ -29,8 +29,11 @@
 
 - A Guide on How To Build An Airflow Server/Cluster [[link](https://stlong0521.github.io/20161023%20-%20Airflow.html)]
 - How Agari Uses Airbnb's Airflow As A Smarter Cron [[link](http://highscalability.com/blog/2015/9/3/how-agari-uses-airbnbs-airflow-as-a-smarter-cron.html)]
-- Airflow: Tips, Tricks, and Pitfalls [[link](https://medium.com/handy-tech/airflow-tips-tricks-and-pitfalls-9ba53fba14eb#.efdfqp58p)]
+- Airflow: Tips, Tricks, and Pitfalls [[link](https://medium.com/handy-tech/airflow-tips-tricks-and-pitfalls-9ba53fba14eb#.efdfqp58p)]
 - Scheduling Spark jobs with Airflow [[link](https://blog.insightdatascience.com/scheduling-spark-jobs-with-airflow-4c66f3144660#.3iqu1n40e)]
+- Automated Model Building with EMR, Spark and Airflow: [[link](https://www.agari.com/automated-model-building-emr-spark-airflow/)]
+- Advanced Airflow: TriggerDagRunOperator: [[link](https://www.linkedin.com/pulse/airflow-lesson-1-triggerdagrunoperator-siddharth-anand)]
+- Running Apache Airflow Workflows as ETL Process on Hadoop: [[link](https://www.slideshare.net/RobertSanders49/running-apache-airflow-workflows-as-etl-processes-on-hadoop)]
 
 ## Monitoring
 
