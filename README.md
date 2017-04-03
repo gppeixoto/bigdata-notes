@@ -57,6 +57,7 @@
 ## Scalable Machine Learning
 
 - Distributed XGBoost on YARN [[docs](https://xgboost.readthedocs.io/en/latest/tutorials/aws_yarn.html)]
+- Clipper: A Low-Latency Online Prediction Serving System [[slideshare](https://www.slideshare.net/SparkSummit/clipper-a-lowlatency-online-prediction-serving-system-spark-summit-east-talk-by-dan-crankshaw)][[paper](https://rise.cs.berkeley.edu/wp-content/uploads/2017/02/clipper_final.pdf)]
 
 ## Kafka
 
