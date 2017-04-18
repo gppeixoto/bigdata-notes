@@ -54,6 +54,7 @@
 - apache-spark-on-k8s [[github](https://github.com/apache-spark-on-k8s/spark)]
 - Spark Cluster using Multi-Node Kubernetes and Docker [[link](https://datasterix.com/2016/09/03/spark-cluster-using-multi-node-kubernetes-and-docker/)]
 - hdfs2cass - Hadoop mapreduce job to bulk load data into Cassandra [[github](https://github.com/spotify/hdfs2cass)]
+- yanigishima - WebUI for PrestoDB [[github](https://github.com/wyukawa/yanagishima)]
 
 ## Scalable Machine Learning
 
