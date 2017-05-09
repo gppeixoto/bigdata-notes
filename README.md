@@ -6,6 +6,12 @@
 - Databricks Spark Knowledge Base [[gitbook](https://www.gitbook.com/book/databricks/databricks-spark-knowledge-base/details)]
 - Open Sourcing TensorFlowOnSpark: Distributed Deep Learning on Big-Data Clusters [[link](https://yahoo.tumblr.com/post/157196637189/open-sourcing-tensorflowonspark-distributed-deep)]
 
+### Spark Streaming
+
+- Long-running Spark Streaming on YARN Cluster [[link](http://mkuthan.github.io/blog/2016/09/30/spark-streaming-on-yarn/)]
+- 24/7 Spark Streaming on YARN in Production [[link](https://www.inovex.de/blog/247-spark-streaming-on-yarn-in-production/)]
+
+
 ## General Architecture
 
 - Putting Apache Kafka To Use: A Practical Guide to Building a Streaming Platform (Part 1) [[link](https://www.confluent.io/blog/stream-data-platform-1/)]
@@ -46,7 +52,7 @@
 
 - Billion-scale similarity search with GPUs [[arxiv](https://arxiv.org/pdf/1702.08734.pdf)]
 
-## SRE-like and Tooling
+## SysOps
 
 - spark-ec2 [[github](https://github.com/amplab/spark-ec2)]
 - yarn-ec2 [[github](https://github.com/tqchen/yarn-ec2)]
