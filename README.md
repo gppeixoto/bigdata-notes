@@ -14,6 +14,8 @@
 
 ## General Architecture
 
+- Using Presto in Our Big Data Platform on AWS [[medium](https://medium.com/netflix-techblog/hadoop-platform-as-a-service-in-the-cloud-c23f35f965e7)]
+- Hadoop Platform as a Service in the Cloud [[medium](https://medium.com/netflix-techblog/hadoop-platform-as-a-service-in-the-cloud-c23f35f965e7)]
 - Putting Apache Kafka To Use: A Practical Guide to Building a Streaming Platform (Part 1) [[link](https://www.confluent.io/blog/stream-data-platform-1/)]
 - The Log: What every software engineer should know about real-time data's unifying abstraction [[lkdn](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)]
 - Data Infrastructure at Airbnb [[medium](https://medium.com/airbnb-engineering/data-infrastructure-at-airbnb-8adfb34f169c#.qf6fnbkxq)]
