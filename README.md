@@ -36,6 +36,7 @@
 
 ### Airflow
 
+- Airflow at WePay [[link](https://wecode.wepay.com/posts/airflow-wepay)]
 - A Guide on How To Build An Airflow Server/Cluster [[link](https://stlong0521.github.io/20161023%20-%20Airflow.html)]
 - How Agari Uses Airbnb's Airflow As A Smarter Cron [[link](http://highscalability.com/blog/2015/9/3/how-agari-uses-airbnbs-airflow-as-a-smarter-cron.html)]
 - Airflow: Tips, Tricks, and Pitfalls [[link](https://medium.com/handy-tech/airflow-tips-tricks-and-pitfalls-9ba53fba14eb#.efdfqp58p)]
