@@ -25,6 +25,7 @@
 - Running Presto and Spark on the Netflix Big Data Platform [[slideshare](https://www.slideshare.net/AmazonWebServices/bdt303-running-spark-and-presto-on-the-netflix-big-data-platform)]
 - Running Presto in our Big Data Plaftform on AWS [[link](http://techblog.netflix.com/2014/10/using-presto-in-our-big-data-platform.html)]
 - [Netflix] Can Spark Streaming survive Chaos Monkey? [[link](http://techblog.netflix.com/2015/03/can-spark-streaming-survive-chaos-monkey.html)]
+- [SoundCloud] A Better Model of Data Ownership [[link](https://wecode.wepay.com/posts/airflow-wepay)]
 
 ## Analytics and Data Science
 
