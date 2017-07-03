@@ -14,6 +14,7 @@
 
 ## General Architecture
 
+- Questioning the Lambda Architecture [[oreilly](https://www.oreilly.com/ideas/questioning-the-lambda-architecture)]
 - Using Presto in Our Big Data Platform on AWS [[medium](https://medium.com/netflix-techblog/hadoop-platform-as-a-service-in-the-cloud-c23f35f965e7)]
 - Hadoop Platform as a Service in the Cloud [[medium](https://medium.com/netflix-techblog/hadoop-platform-as-a-service-in-the-cloud-c23f35f965e7)]
 - Putting Apache Kafka To Use: A Practical Guide to Building a Streaming Platform (Part 1) [[link](https://www.confluent.io/blog/stream-data-platform-1/)]
