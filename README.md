@@ -1,5 +1,19 @@
 # bigdata-notes
 
+## AI / Machine Learning
+
+### Fairness / Model Auditing
+- FairML: Auditing Black-Box Predictive Models [[blog](http://blog.fastforwardlabs.com/2017/03/09/fairml-auditing-black-box-predictive-models.html)]
+- [oxford] European Union regulations on algorithmic decision-making and a “right to explanation” [[arxiv](https://arxiv.org/pdf/1606.08813.pdf)]
+
+
+### Scalable Machine Learning
+
+- [uber] Scalable Machine Learning as a Service [[arxiv](http://proceedings.mlr.press/v67/li17a/li17a.pdf)]
+- Distributed XGBoost on YARN [[docs](https://xgboost.readthedocs.io/en/latest/tutorials/aws_yarn.html)]
+- Clipper: A Low-Latency Online Prediction Serving System [[slideshare](https://www.slideshare.net/SparkSummit/clipper-a-lowlatency-online-prediction-serving-system-spark-summit-east-talk-by-dan-crankshaw)][[paper](https://rise.cs.berkeley.edu/wp-content/uploads/2017/02/clipper_final.pdf)]
+- Ray: A distributed execution framework for emerging AI applications [[talk](https://www.oreilly.com/ideas/ray-a-distributed-execution-framework-for-emerging-ai-applications-full-keynote-post)][[github](https://github.com/ray-project/ray)]
+
 ## Spark
 
 - Mastering Apache Spark 2 [[gitbook](https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details)]
@@ -31,7 +45,7 @@
 ## Analytics and Data Science
 
 - Superset: Scaling Data Access and Visual Insights at Airbnb [[medium](https://medium.com/airbnb-engineering/superset-scaling-data-access-and-visual-insights-at-airbnb-3ce3e9b88a7f#.qprvofuypu)]
-- [Facebook] Prophet: Automatic Forecasting Procedure [[github](https://github.com/facebookincubator/prophet)]
+- [fb] Prophet: Automatic Forecasting Procedure [[github](https://github.com/facebookincubator/prophet)]
 - Strata + Hadoop World 2017 [[link](https://www.safaribooksonline.com/library/view/strata-hadoop/9781491976166/?utm_source=newsite&utm_medium=content&utm_campaign=lgen&utm_content=michael-jordan-strata-sj-keynote-video-post-top-cta)]
 
 ## Pipeline
@@ -67,11 +81,6 @@
 - hdfs2cass - Hadoop mapreduce job to bulk load data into Cassandra [[github](https://github.com/spotify/hdfs2cass)]
 - yanigishima - WebUI for PrestoDB [[github](https://github.com/wyukawa/yanagishima)]
 
-## Scalable Machine Learning
-
-- Distributed XGBoost on YARN [[docs](https://xgboost.readthedocs.io/en/latest/tutorials/aws_yarn.html)]
-- Clipper: A Low-Latency Online Prediction Serving System [[slideshare](https://www.slideshare.net/SparkSummit/clipper-a-lowlatency-online-prediction-serving-system-spark-summit-east-talk-by-dan-crankshaw)][[paper](https://rise.cs.berkeley.edu/wp-content/uploads/2017/02/clipper_final.pdf)]
-- Ray: A distributed execution framework for emerging AI applications [[talk](https://www.oreilly.com/ideas/ray-a-distributed-execution-framework-for-emerging-ai-applications-full-keynote-post)][[github](https://github.com/ray-project/ray)]
 ## Kafka
 
 ### Streams
