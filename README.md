@@ -49,6 +49,7 @@
 
 ### Airflow
 
+- Airflow + Kubernetes (discussion) [[youtube](https://www.youtube.com/watch?v=5BU3YPYYRno)]
 - Airflow at WePay [[link](https://wecode.wepay.com/posts/airflow-wepay)]
 - A Guide on How To Build An Airflow Server/Cluster [[link](https://stlong0521.github.io/20161023%20-%20Airflow.html)]
 - How Agari Uses Airbnb's Airflow As A Smarter Cron [[link](http://highscalability.com/blog/2015/9/3/how-agari-uses-airbnbs-airflow-as-a-smarter-cron.html)]
@@ -57,7 +58,6 @@
 - Automated Model Building with EMR, Spark and Airflow: [[link](https://www.agari.com/automated-model-building-emr-spark-airflow/)]
 - Advanced Airflow: TriggerDagRunOperator: [[link](https://www.linkedin.com/pulse/airflow-lesson-1-triggerdagrunoperator-siddharth-anand)]
 - Running Apache Airflow Workflows as ETL Process on Hadoop: [[link](https://www.slideshare.net/RobertSanders49/running-apache-airflow-workflows-as-etl-processes-on-hadoop)]
-- Airflow At WePay [[link](https://wecode.wepay.com/posts/airflow-wepay)]
 
 ## Monitoring
 
